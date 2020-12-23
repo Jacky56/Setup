@@ -35,5 +35,10 @@ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 
 ### tmux
 
+First kill all running `tmux-servers`:
+```bash
+tmux kill-server
+tmux ls
+```
 copy `.tmux.conf` to `~/` (home directory)
 
