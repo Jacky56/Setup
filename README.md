@@ -1,5 +1,5 @@
 # Setup
-Setting up on new computer
+Setting up a new environment on new computer
 
 ## Programs
 
