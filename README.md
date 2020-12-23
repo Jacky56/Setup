@@ -7,10 +7,10 @@ Critical programs:
 - [vscode](https://code.visualstudio.com/)
 - [wsl: ubuntu](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 - [python](https://www.python.org/downloads/)
+- [gcloud utils](https://cloud.google.com/sdk/docs/install)
 
 After you install the the above:
 - [terraform](https://www.terraform.io/downloads.html)
-- [gcloud utils](https://cloud.google.com/sdk/docs/install)
 - [docker](https://www.docker.com/get-started)
 - [kubernetes](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 - [minikube](https://minikube.sigs.k8s.io/docs/start/)
