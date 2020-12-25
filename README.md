@@ -21,16 +21,19 @@ applications:
 - brew
 - fzf
 - tmux
+- kubectx
 
 After you install wsl: ubuntu:
 - [brew](https://medium.com/@edwardbaeg9/using-homebrew-on-windows-10-with-windows-subsystem-for-linux-wsl-c7f1792f88b3)
 
-Run to install `tmux` & `fzf`:
+Run to install `tmux` & `fzf` & `kubectx`:
 ```bash
+brew install kubectx
 brew install tmux
 brew install fzf
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 ~/.fzf/install
+
 ```
 
 ### tmux
