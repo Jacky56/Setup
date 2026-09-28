@@ -45,5 +45,11 @@ First kill all running `tmux-servers`:
 tmux kill-server
 tmux ls
 ```
-copy `.tmux.conf` to `~/` (home directory)
+
+```bash
+tmux
+start
+```
+
+
 
