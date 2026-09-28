@@ -38,10 +38,6 @@ wget https://github.com/Jacky56/Setup/blob/main/.tmux.conf -O ~/.tmux.conf
 echo "alias start=\"tmux new -A -s default\"" >> ~/.bashrc
 ```
 
-```bash
-
-```
-
 ### tmux
 
 First kill all running `tmux-servers`:
