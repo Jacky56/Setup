@@ -28,11 +28,17 @@ After you install wsl: ubuntu:
 
 Run to install `tmux` & `fzf` & `kubectx`:
 ```bash
-brew install kubectx
-brew install tmux
-brew install fzf
+brew install kubectx -y
+brew install tmux -y 
+brew install fzf -y
+brew install wget -y
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 ~/.fzf/install
+wget https://github.com/Jacky56/Setup/blob/main/.tmux.conf -O ~/.tmux.conf
+echo "alias start=\"tmux new -A -s default\"" >> ~/.bashrc
+```
+
+```bash
 
 ```
 
